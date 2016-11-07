@@ -1,0 +1,3 @@
+Tvoji kontakti:
+-miha;	markovic;	041275510;	miha0552@gmail.com;	2002;
+-josko;	markovic;	015647405;	josko.markovic@siol.net;	1953;
